@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+PlaneFall/Library/ArtifactDB
+PlaneFall/Library
+PlaneFall/Temp
