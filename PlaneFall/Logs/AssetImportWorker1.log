@@ -629,3 +629,7 @@ Received Import Request.
   path: Assets/Resources/Sprites/Enemies/planeYellow1.png
   artifactKey: Guid(a19706ea1c52c014ebbcce94735e380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Sprites/Enemies/planeYellow1.png using Guid(a19706ea1c52c014ebbcce94735e380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c78a1b547b19024c3630879581655b') in 0.010812 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -269,3 +269,7 @@ Received Import Request.
   path: Assets/Resources/Sprites/Enemies/enemyBlue5.png
   artifactKey: Guid(ec4f21a7f4a978d499bec1852927a886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Sprites/Enemies/enemyBlue5.png using Guid(ec4f21a7f4a978d499bec1852927a886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e48235400ba19d887bcd03ef0544c14') in 0.010966 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
